@@ -1,3 +1,4 @@
 # demo
-this is my first git repository
-author - Kirti Lange
+this is my first git repository.
+<br>
+Author - Kirti Lange
